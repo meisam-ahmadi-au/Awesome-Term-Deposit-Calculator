@@ -1,0 +1,15 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Button Component > should match the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="mb-4 "
+  >
+    <button
+      class="w-full px-4 py-2 rounded-md focus:outline-none bg-blue-500 text-white hover:bg-blue-600"
+    >
+      Click Me
+    </button>
+  </div>
+</DocumentFragment>
+`;
